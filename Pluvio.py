@@ -9,7 +9,7 @@ import re
 
 bucket = "Pluvio L 400"
 org = "WG"
-token = "VDwvoYR1X0NK0-n1Bppm8ehUhnE-RMZCIJ3pO9uK-WTvSKkVgYQI068M7gaUWsPQx39W_mURnf7YZfVDCjqLvw=="
+token = "mytoken"
 # Store the URL of your InfluxDB instance
 url="http://localhost:8086"
 
